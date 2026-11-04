@@ -1,10 +1,17 @@
 {
-  "seq": 17,
   "title": "Cyber Incident Response Playbook for Small Businesses",
-  "slug": "cyber-incident-response-playbook-for-small-businesses",
+  "old_slug": "cyber-incident-response-playbook-for-small-businesses",
+  "slug": "sme-cyber-ir-playbook",
   "folder": "Cyber_Incident_Response_Playbook_For_Small_Businesses",
   "kind": "ir",
-  "body_words": 240,
+  "body_words": 311,
+  "source": "MICT Academic",
   "project_id": "Academic Project 17",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
