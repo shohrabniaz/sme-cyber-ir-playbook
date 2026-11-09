@@ -1,0 +1,28 @@
+name: Cyber Incident Response Playbook for Small Businesses
+version: 1
+steps:
+  - id: S1
+    title: Declare incident / scope
+    owner: Incident Lead
+    required: true
+    sla_hours: 1
+  - id: S2
+    title: Preserve evidence / backups
+    owner: IT
+    required: true
+    sla_hours: 2
+  - id: S3
+    title: Contain and eradicate
+    owner: Security
+    required: true
+    sla_hours: 8
+  - id: S4
+    title: Notify stakeholders
+    owner: Management
+    required: true
+    sla_hours: 4
+  - id: S5
+    title: Post-incident review
+    owner: Incident Lead
+    required: false
+    sla_hours: 72
